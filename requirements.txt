@@ -1,0 +1,7 @@
+pandas # CSV 데이터 읽기, 표 형태 데이터 처리
+numpy # 숫자 계산, 센서값 계산
+matplotlib # 기본 그래프 그리기
+scikit-learn # RandomForest, SYM 같은 머신러닝 모델
+streamlit # 웹 대시보드 만들기
+plotly # 인터렉티브 그래프
+jupyter # 노트북 기반 실험
