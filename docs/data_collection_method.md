@@ -6,7 +6,7 @@
 
 본 연구는 Galaxy 스마트폰의 IMU 센서 데이터를 핵심 데이터로 사용하고, Galaxy Fit3와 Samsung Health에서 확인할 수 있는 운동 기록, 심박수, 수면 시간 등은 선택 보조 데이터로 활용한다.
 
-AI Hub 또는 공개 데이터셋은 별도 문서인 `docs/aihub_dataset_review.md`에서 조사하며, 본 문서에서는 Galaxy 스마트폰, Galaxy Fit3, Samsung Health를 활용한 **직접 러닝 데이터 수집 방법**만 다룬다.
+공개 러닝·웨어러블 데이터셋은 별도 문서인 `docs/public_dataset_review.md`에서 조사하며, 본 문서에서는 Galaxy 스마트폰, Galaxy Fit3, Samsung Health를 활용한 **직접 러닝 데이터 수집 방법**만 다룬다.
 
 ---
 
